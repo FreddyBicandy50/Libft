@@ -1,7 +1,7 @@
 # libft
 
 <p align="center">
-  <img src="https://github.com/FreddyBicandy50/42draft/blob/main/42_badges/libfte.png?raw=true" alt="Born2beroot 42 project badge"/>
+  <img src="https://github.com/FreddyBicandy50/42draft/blob/main/42_badges/libfte.png?raw=true" alt="libft 42 project badge"/>
 </p>
 
 ## Status
