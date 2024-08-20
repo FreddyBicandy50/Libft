@@ -10,6 +10,8 @@ Started: 10/06/2024.
 Finished: 22/06/2024.
 
 Grade: 125%.
+## Project Idea
+This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus.
 
 ## Usage
 ``make`` to compile mandatory functions.
